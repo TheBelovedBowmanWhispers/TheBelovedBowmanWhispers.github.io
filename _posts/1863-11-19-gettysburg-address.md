@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
+cover: 'assets/images/cover5.jpg'
 navigation: True
 title: New Template
 date: 2014-08-12 10:18:00
