@@ -30,9 +30,9 @@
 #  url: jekyllt.github.io/jasper
 #  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
 #  assets: assets/images/edgar.gif
-Pri:
-  username: Pri
-  name: Pri
+pri:
+  username: pri
+  name: pri
   location: Memphis, Tennessee
   url_full: https://thebelovedbowmanwhispers.github.io/
   url: https://thebelovedbowmanwhispers.github.io/
