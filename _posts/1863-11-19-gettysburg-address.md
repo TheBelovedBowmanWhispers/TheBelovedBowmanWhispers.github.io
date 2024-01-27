@@ -1,13 +1,14 @@
 ---
 layout: post
-cover: false
-navigation: true
-title: Gettysburg Address
-date: 1863-11-19 10:18:00
-tags: fiction
-subclass: 'post tag-fiction'
+cover: 'assets/images/cover7.jpg'
+navigation: True
+title: The Businessman & the fisherman
+date: 2014-08-12 10:18:00
+tags: fables fiction
+subclass: 'post tag-test tag-content'
+logo: 'assets/images/ghost.png'
 author: casper
 categories: casper
 ---
 
-input all the text here
+An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.
