@@ -7,7 +7,7 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'The Beloved Bowman Whispers'
+title: 'The Beloved Bowman Whispers'
 description: "Thoughts, Musings and Reflections."
 
 short_url: 'https://thebelovedbowmanwhispers.github.io/'
