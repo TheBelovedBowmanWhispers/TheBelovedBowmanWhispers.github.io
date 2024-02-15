@@ -1,9 +1,10 @@
 ---
 layout: default
 title: ABOUT
+logo: 'assets/images/ghost.png'
 navigation: true
 ---
-#logo: 'assets/images/ghost.png'
+HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
 This is the about page of my blog.
 Hello and welcome to my blog!
 
