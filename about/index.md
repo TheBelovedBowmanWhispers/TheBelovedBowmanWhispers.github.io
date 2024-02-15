@@ -10,4 +10,4 @@ current: about
 This is the about page of my blog.
 Hello and welcome to my blog!
 
-![An image link] (/1ghost.png)
+![An image link](/screen1.png)
