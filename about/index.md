@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ABOUT
-logo: 'assets/images/ghost.png'
-navigation: true
+#logo: 'assets/images/ghost.png'
+#navigation: true
 ---
 HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
 This is the about page of my blog.
