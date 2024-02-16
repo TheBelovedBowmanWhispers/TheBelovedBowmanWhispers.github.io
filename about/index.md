@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ABOUT
 #logo: 'assets/images/ghost.png'
 #navigation: true
