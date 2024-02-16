@@ -3,7 +3,7 @@ layout: default
 title: ABOUT
 class: 'home-template'
 #logo: 'assets/images/ghost.png'
-#navigation: true
+navigation: true
 ---
 HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
 ppppppppppppppppppppppppppppppppppppppp
