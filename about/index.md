@@ -1,9 +1,20 @@
 ---
-layout: default
-title: ABOUT
-class: 'home-template'
+#layout: default
+#title: ABOUT
+#class: 'home-template'
 #logo: 'assets/images/ghost.png'
-navigation: true
+#navigation: true
+
+layout: post
+cover: 'assets/images/cover5.jpg'
+navigation: True
+title: ABOUT
+#date: 2014-08-12 10:18:00
+#tags: fables fiction
+#subclass: 'post tag-test tag-content'
+logo: 'assets/images/ghost.png'
+#author: casper
+#categories: casper
 ---
 HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
 ppppppppppppppppppppppppppppppppppppppp
