@@ -46,8 +46,8 @@ plugins: #[jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
+username: TheBelovedBowmanWhispers #jekyllt
+repo: TheBelovedBowmanWhispers #jasper
 branch: master
 relative_source: ../thebelovedbowman.github.io/
 destination: ../jasper-pages/
