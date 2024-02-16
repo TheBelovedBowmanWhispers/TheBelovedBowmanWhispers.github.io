@@ -50,7 +50,7 @@ username: TheBelovedBowmanWhispers #jekyllt
 repo: TheBelovedBowmanWhispers #jasper
 branch: master
 relative_source: ../thebelovedbowman.github.io/
-destination: ../jasper-pages/
+#destination: ../jasper-pages/
 production_url:  https://thebelovedbowman.github.io/
 source_url:   https://thebelovedbowman.github.io/
 
