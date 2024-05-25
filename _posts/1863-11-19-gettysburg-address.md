@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover5.jpg'
 navigation: True
-title: HELLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOO
+title: This is the First one
 date: 2014-08-12 10:18:00
 tags: fables fiction
 subclass: 'post tag-test tag-content'
