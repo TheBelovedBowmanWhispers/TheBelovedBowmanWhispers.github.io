@@ -11,14 +11,12 @@ language: 'en-uk'
 name: 'The Beloved Bowman Whispers'
 description: "Thoughts, Musings and Reflections."
 
-#short_url: 'https://thebelovedbowmanwhispers.github.io/'
+short_url: 'https://thebelovedbowmanwhispers.github.io/'
 
 google_analytics: #UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-#baseurl: '/'
-url: 'https://thebelovedbowmanwhispers.github.io/'
-baseurl: " "
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
