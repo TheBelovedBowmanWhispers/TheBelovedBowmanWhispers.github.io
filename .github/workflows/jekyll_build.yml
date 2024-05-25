@@ -2,9 +2,9 @@ name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [ Customise ]
+    branches: [ master ]
   pull_request:
-    branches: [ Customise ]
+    branches: [ master ]
 
 jobs:
   github-pages:
