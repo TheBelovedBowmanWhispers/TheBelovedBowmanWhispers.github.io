@@ -5,6 +5,7 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 language: 'en-uk'
+theme: Cayman
 
 # Website info
 name: 'The Beloved Bowman Whispers'
