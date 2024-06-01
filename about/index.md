@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: About
 navigation: true
 logo: 'assets/images/ghost.png'
