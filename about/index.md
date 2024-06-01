@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 cover: 'assets/images/cover5.jpg'
 navigation: True
 title: About
