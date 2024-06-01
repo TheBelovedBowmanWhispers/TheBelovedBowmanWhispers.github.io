@@ -16,19 +16,6 @@ logo: 'assets/images/ghost.png'
 ![An image link](/assets/images/screen1.png)
 
 HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
-ppppppppppppppppppppppppppppppppppppppp
-This is the about page of my blog.
-Hello and welcome to my blog!
-HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
-ppppppppppppppppppppppppppppppppppppppp
-This is the about page of my blog.
-Hello and welcome to my blog!
-
-HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
-ppppppppppppppppppppppppppppppppppppppp
-This is the about page of my blog.
-Hello and welcome to my blog!
-
 
 ![An image link](/assets/images/screen1.png)
 
