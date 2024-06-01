@@ -18,6 +18,3 @@ categories: casper
 HEEEEEEEEEEEEEEEEEEEELOOOOOOOOOOOOOOOOOOOOOOOOO
 
 ![An image link](/assets/images/screen1.png)
-
-
-
